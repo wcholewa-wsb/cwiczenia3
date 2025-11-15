@@ -1,1 +1,1 @@
-To jest WERSJA A pierwszego zdania.
+To jest WERSJA B pierwszego zdania.
